@@ -1,0 +1,43 @@
+#define L_BLOCK 8
+#define N_LSB 3
+
+#define N_PROBLACION 60
+#define PROB_MUTACION 0.3
+#define ITERATIONS 30
+
+Shares generados correctamente
+Ocultar en stegoImg1...
+	Share 1...
+		No Chose One->40860
+		Repeat Blocks->24427
+		Tiempo Gastado->217.438
+	Share 1 OK
+	Share 2...
+		No Chose One->40716
+		Repeat Blocks->24569
+		Tiempo Gastado->221.021
+	Share 2 OK
+	Share 3...
+		No Chose One->42175
+		Repeat Blocks->23111
+		Tiempo Gastado->219.788
+	Share 3 OK
+Ocultar en stegoImg1 OK
+Ocultar en stegoImg2...
+	Share 1...
+		No Chose One->42144
+		Repeat Blocks->23148
+		Tiempo Gastado->222.445
+	Share 1 OK
+	Share 2...
+		No Chose One->42013
+		Repeat Blocks->23272
+		Tiempo Gastado->216.619
+	Share 2 OK
+	Share 3...
+		No Chose One->41562
+		Repeat Blocks->23725
+		Tiempo Gastado->217.697
+	Share 3 OK
+Ocultar en stegoImg2 OK
+Cifrado correctamente
